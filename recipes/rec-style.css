@@ -1,0 +1,30 @@
+h1{
+    font-weight:bolder;
+    font-style: italic;
+    background-color: pink;
+    color: lightcoral;
+    text-align: center;
+    font-size: 50px;
+    font-family:'Courier New', Courier, monospace
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+p{
+    font-style: italic;
+    background-color: red;
+    color: blue;
+}
+
+ul{
+    background-color: aquamarine;
+    color: green;
+}
+
+ol{
+    background-color:aquamarine;
+    color: orange;
+}
