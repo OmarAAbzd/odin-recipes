@@ -1,0 +1,13 @@
+h1{
+    font-weight:bolder;
+    font-style: italic;
+    background-color: pink;
+    color: lightcoral;
+    text-align: center;
+    font-size: 50px;
+}
+
+ul{
+    font-size: 34px;
+    font-style: italic;
+}
